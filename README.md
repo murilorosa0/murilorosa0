@@ -6,16 +6,11 @@
 
 ###
 
-<p align="left">💻 Atualmente estudando e aprimorando minhas habilidades em Java</p>
-
-###
-
-<p align="left">🚀 Interessado em desenvolvimento de software, programação orientada a objetos e tecnologia</p>
-
-###
-
-<p align="left">📚 Compartilhando meus estudos e evolução durante minha jornada na computação</p>
-
+<p align="left">
+💻 Atualmente estudando e aprimorando minhas habilidades em Java<br>
+🚀 Interessado em desenvolvimento de software, programação orientada a objetos e tecnologia<br>
+📚 Compartilhando meus estudos e evolução durante minha jornada na computação
+</p>
 ###
 
 <div align="left">
