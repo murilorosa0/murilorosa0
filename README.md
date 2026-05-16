@@ -11,7 +11,7 @@
 🚀 Interessado em desenvolvimento de software, programação orientada a objetos e tecnologia<br>
 📚 Compartilhando meus estudos e evolução durante minha jornada na computação
 </p>
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
