@@ -6,12 +6,9 @@
 
 ###
 
-<p align="left">
-💻 Atualmente estudando e aprimorando minhas habilidades em Java<br>
-🚀 Interessado em desenvolvimento de software, programação orientada a objetos e tecnologia<br>
-📚 Compartilhando meus estudos e evolução durante minha jornada na computação
-</p>
+<p align="left">💻 Atualmente estudando e aprimorando minhas habilidades em Java<br>🚀 Interessado em desenvolvimento de software, programação orientada a objetos e tecnologia<br>📚 Compartilhando meus estudos e evolução durante minha jornada na computação</p>
 
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -31,7 +28,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
