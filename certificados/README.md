@@ -8,6 +8,7 @@ Aqui ficarão organizados os certificados que demonstram minha evolução, meus 
 
 ## Lista de certificados
 
-| Certificado | Instituição | Data | Arquivo |
+| Certificado | Instituição | Mês/Ano | Arquivo |
 | --- | --- | --- | --- |
-| Nome do certificado | Instituição | 2026 | [Ver PDF](./nome-do-certificado.pdf) |
+| Do Básico ao Avançado - Microsoft Excel | Udemy | 04/2026 | [Ver PDF](./Do%20Básico%20ao%20Avançado%20-%20Microsoft%20Excel.pdf) |
+| Algoritmos e Lógica de Programação | Udemy | 03/2026 | [Ver PDF](./Algoritmos%20e%20Lógica%20deProgramação.pdf) |
