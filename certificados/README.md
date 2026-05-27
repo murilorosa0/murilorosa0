@@ -1,12 +1,8 @@
-# Certificados
+# 📜 Certificados
 
 Este diretório reúne meus certificados, cursos, formações e conquistas profissionais.
 
-## Sobre
-
-Aqui ficarão organizados os certificados que demonstram minha evolução, meus estudos e minhas habilidades técnicas.
-
-## Lista de certificados
+## 🚀 Lista de certificados
 
 | Certificado | Instituição | Mês/Ano | Arquivo |
 | --- | --- | --- | --- |
